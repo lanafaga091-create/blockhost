@@ -1,0 +1,12 @@
+node_modules
+.git
+.gitignore
+wrangler.jsonc
+package.json
+package-lock.json
+server.js
+db.js
+*.sh
+*.md
+*.sql
+device.env.example
