@@ -1,0 +1,9 @@
+{
+  "name": "BlockHost — Minecraft Bedrock Hosting",
+  "short_name": "BlockHost",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070D",
+  "theme_color": "#05070D",
+  "description": "Panel hosting server Minecraft Bedrock BlockHost."
+}
